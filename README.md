@@ -3,4 +3,4 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Practicing Java developement</b>
-  - [Praciting Java developement](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting Java developement](https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/TheHandOfGod85/OfficeEquipmentLab)
