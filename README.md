@@ -6,3 +6,4 @@
   - [The Office Equipment Lab](https://github.com/TheHandOfGod85/OfficeEquipmentLab)
   - [The Zuul Lab](https://github.com/TheHandOfGod85/TheZuulGame)
   - [The QuizWizard](https://github.com/TheHandOfGod85/TheQuizWizard)
+  - [The Java and SQL project](https://github.com/TheHandOfGod85/JavaAndSql)
