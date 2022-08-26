@@ -8,4 +8,4 @@
   - [The QuizWizard](https://github.com/TheHandOfGod85/TheQuizWizard)
   - [The Java and SQL project](https://github.com/TheHandOfGod85/JavaAndSql)
 - <b>Practicing Android developement</b>
-  - [SimpleWeatherApp](https://github.com/TheHandOfGod85/SimpleWeatherApp/tree/master)
+  - [SimpleWeatherApp](https://github.com/TheHandOfGod85/SimpleWeather)
