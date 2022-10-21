@@ -11,5 +11,5 @@
   - [SimpleWeatherApp](https://github.com/TheHandOfGod85/SimpleWeather)
 - <b>Full Stack Development</b>
   - [E-Commerce-Back-End](https://github.com/TheHandOfGod85/e-commerce)
-  - [E-Commerce-Front-End](https://github.com/TheHandOfGod85/angular-ecommerce)
+  - [E-Commerce-Front-End](https://github.com/TheHandOfGod85/angular-ecommerce)/n
     [Video-Preview](https://youtu.be/4KXtTVZEX3A)
