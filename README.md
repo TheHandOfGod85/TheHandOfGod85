@@ -15,4 +15,4 @@
     <br>
     [Video-Preview](https://youtu.be/4KXtTVZEX3A)
 - <b>Full Stack Development (C# with .net 6 MVC)</b>
-  - [Book-Store]([https://github.com/TheHandOfGod85/e-commerce](https://github.com/TheHandOfGod85/BulkyBook)
+  - [Book-Store](https://github.com/TheHandOfGod85/BulkyBook)
