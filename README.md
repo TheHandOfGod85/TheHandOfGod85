@@ -16,5 +16,5 @@
     [Video-Preview](https://youtu.be/4KXtTVZEX3A)
 - <b>Full Stack Development (C# with .net 6 MVC)</b>
   - [Book-Store](https://github.com/TheHandOfGod85/BulkyBook)
-  - [Online-Web-Demo](https://bookserver85.azurewebsites.net/)
+ 
 
