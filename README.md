@@ -14,7 +14,11 @@
   - [E-Commerce-Front-End](https://github.com/TheHandOfGod85/angular-ecommerce)
     <br>
     [Video-Preview](https://youtu.be/4KXtTVZEX3A)
-- <b>Full Stack Development (C# with .net 6 MVC)</b>
+- <b>Full Stack Development (C# with .net MVC)</b>
   - [Book-Store](https://github.com/TheHandOfGod85/BulkyBook)
+- <b>Full Stack Development (NodeJS/Express(Javascript) and Angular(Typescript)</b>
+  - [Speedytools](https://github.com/TheHandOfGod85/SpeedyTools-MEAN-Stack)
+- <b>Full Stack Development (.net WebApi(C#) and Angular(Typescript)</b>
+  - [Speedytools](https://github.com/TheHandOfGod85/SpeedyTools)          
  
 
